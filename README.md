@@ -1,4 +1,4 @@
-# Customer Purchasing Behaviors Dashboard using Power BI
+# Customer Purchasing Behaviors Dashboard using Tableau
 ## Project Objective
 The Customer Purchasing Behaviors Dashboard will provide insights about the customer's purchase amount, frquency of purchase, their loyalty score and much more.
 
